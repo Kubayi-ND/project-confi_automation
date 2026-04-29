@@ -1,9 +1,29 @@
-# project-config_automation
-This repo contains the setup instructions for FrontEnd and Backend(RAG API) of a project configuration automation using ollama and rag< br / >
-#Step 1: Clone RAG API< br / >
-  HTTPS: https://github.com/Kubayi-ND/rag-api.git< br / >
-  follow instructions on README.md to run RAG API< br / >
-Step 2: Clone RAG FrontEnd< br / >
- HTTPS: https://github.com/Kubayi-ND/rag_frontend.git< br / >
- follow instructions on README.md file for setup< br / >
- 
+# Project Config Automation
+
+This repository contains the setup instructions for the **Frontend** and **Backend (RAG API)** used in a project configuration automation system powered by **Ollama + Retrieval-Augmented Generation (RAG)**.
+
+---
+
+## Step 1 — Clone the RAG API (Backend)
+
+Clone the backend repository:
+
+**HTTPS**
+
+https://github.com/Kubayi-ND/rag-api.git
+
+
+Then follow the setup instructions in the **README.md** inside the repo to run the RAG API locally.
+
+---
+
+## Step 2 — Clone the RAG Frontend
+
+Clone the frontend repository:
+
+**HTTPS**
+
+https://github.com/Kubayi-ND/rag_frontend.git
+
+
+Then follow the setup instructions in the **README.md** inside the repo to run the frontend locally.
