@@ -1,6 +1,10 @@
 # Project Demonstration
 
-<video src="rag_automation.mp4" width="320" height="240" controls></video>
+
+
+https://github.com/user-attachments/assets/7897466a-7051-48db-bc9b-80de812835b7
+
+
 
 # Project Config Automation
 
