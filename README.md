@@ -1,6 +1,6 @@
 # Project Demonstration
 
-<video src="demo/rag_automation.mp4" width="320" height="240" controls></video>
+<video src="rag_automation.mp4" width="320" height="240" controls></video>
 
 # Project Config Automation
 
