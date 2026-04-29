@@ -2,9 +2,6 @@
 
 
 
-https://github.com/user-attachments/assets/7897466a-7051-48db-bc9b-80de812835b7
-
-
 
 # Project Config Automation
 
